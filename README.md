@@ -3,9 +3,11 @@ A project by students of Vidyalankar School Of Information Technology
 This code can detect your eyes and alert when the user is drowsy.
 
 Applications 🎯
+
 This can be used by riders who tend to drive for a longer period of time that may lead to accidents
 
 Code Requirements 🦄
+
 The example code is in Python (version 3.9 or higher will work).
 
 Dependencies
